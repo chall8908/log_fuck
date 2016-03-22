@@ -1,0 +1,25 @@
+{
+  "name": "log_fuck",
+  "version": "0.0.1",
+  "description": "Log profanity to your console to keep track of where you are!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "log",
+    "logging",
+    "fuck",
+    "console"
+  ],
+  "author": "Chris Hall",
+  "license": "GPLv3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chall8908/log_fuck"
+  },
+  "bugs": {
+    "url": "https://github.com/chall8908/log_fuck/issues"
+  },
+  "homepage": "https://github.com/chall8908/log_fuck"
+}
